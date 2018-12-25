@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MaxHit</string>
+    <string name="title_activity_weight_display">weightDisplay</string>
+</resources>
